@@ -1,0 +1,16 @@
+Output  
+
+Initial States:  
+at (tile 1,9)  
+at (tile 1,8)  
+at (tile 5,7)  
+at (tile 2,5)  
+at (tile 6,6)  
+at (Empty,4)  
+at (tile 8,3)  
+at (tile 3,2)  
+at (tile 4,1)  
+
+Goal State:  
+[at (tile 1,1), at (tile 2,2), at (tile 3,3), at (tile 4,4), at (empty,5), at (tile 6,6), at (tile 7,7), at (tile 8,8), at (tile 9,9)]  
+true  
